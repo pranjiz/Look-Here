@@ -1,5 +1,5 @@
 <ul>
-# Look-Here
+<strong>Look-Here</strong>
 <li>
 The goal of this project is to build a Google Clone using HTML5, Sass, JavaScript, and the Wikipedia API. The app will allow users to search for topics and 
 retrieve relevant data. The key objectives are:  Integrate the Wikipedia API to fetch and display search results dynamically. Improve the visual appearance using 
